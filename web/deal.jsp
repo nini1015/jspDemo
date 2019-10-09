@@ -15,6 +15,8 @@
     response.addCookie(cookie);
 %>
 <script type="text/javascript">window.location.href="index.jsp"</script>
+
+
 </body>
 </html>
 
